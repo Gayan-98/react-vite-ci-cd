@@ -1,6 +1,7 @@
 {
   "name": "ci-cd",
   "private": true,
+  "homepage": "https://gayan-98.github.io/react-vite-ci-cd/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
