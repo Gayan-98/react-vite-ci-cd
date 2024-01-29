@@ -19,4 +19,4 @@ Make sure you have the following tools installed on your machine:
 
    ```bash
    git clone https://github.com/Gayan-98/react-vite-ci-cd.git
-   cd YOUR_PROJECT_NAME
+   cd react-vite-ci-cd
