@@ -18,5 +18,5 @@ Make sure you have the following tools installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git
+   git clone https://github.com/Gayan-98/react-vite-ci-cd.git
    cd YOUR_PROJECT_NAME
